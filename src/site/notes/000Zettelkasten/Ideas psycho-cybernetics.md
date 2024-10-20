@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-zettelkasten/ideas-psycho-cybernetics/","tags":["fleeting"]}
+{"dg-publish":true,"permalink":"/000-zettelkasten/ideas-psycho-cybernetics/","tags":["fleeting","gardenEntry"]}
 ---
 
 ***Ankit Singh*** 
