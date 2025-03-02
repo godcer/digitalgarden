@@ -1,5 +1,5 @@
 ---
-{"updated":"2024-11-06T19:55:31+05:30","cssclasses":["pen-red"],"dg-publish":true,"permalink":"/cyber-terms/","dgPassFrontmatter":true}
+{"updated":"2024-11-06T19:55:31+05:30","cssclasses":["pen-red"],"dg-publish":true,"dg-home":true,"permalink":"/cyber-terms/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 1. Web Crawler
