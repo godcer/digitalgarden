@@ -1,5 +1,5 @@
 ---
-{"created":"2024-08-04T21:43","updated":"2024-10-18T19:11:49+05:30","tags":["fleeting","gardenEntry"],"banner":"https://images.pexels.com/photos/8386550/pexels-photo-8386550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","banner_y":null,"dg-publish":true,"dg-home":true,"permalink":"/000-zettelkasten/ideas-psycho-cybernetics/","dgPassFrontmatter":true}
+{"created":"2024-08-04T21:43","updated":"2024-10-20T21:49:20+05:30","tags":["fleeting"],"banner":"https://images.pexels.com/photos/8386550/pexels-photo-8386550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","banner_y":null,"dg-publish":true,"dg-home":false,"permalink":"/000-zettelkasten/ideas-psycho-cybernetics/","dgPassFrontmatter":true}
 ---
 
 ***Ankit Singh*** 
