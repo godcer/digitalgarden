@@ -3,7 +3,6 @@
 ---
 
 
-# VAPT 
 
 ### **Scanning and Enumeration in Information Security**
 
