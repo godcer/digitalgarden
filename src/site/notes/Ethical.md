@@ -1,5 +1,5 @@
 ---
-{"banner":"[[hacking.png]]","icon":"🦚","dg-publish":true,"permalink":"/ethical/","dgPassFrontmatter":true}
+{"banner":"[[hacking.png]]","dg-publish":true,"permalink":"/ethical/","dgPassFrontmatter":true}
 ---
 
   
