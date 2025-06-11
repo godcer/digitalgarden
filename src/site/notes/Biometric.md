@@ -1,5 +1,5 @@
 ---
-{"banner":"[[pixel-banner-image.png]]","dg-publish":true,"permalink":"/biometric/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/biometric/","noteIcon":""}
 ---
 
 *** 1 . Compare biometric authentication with traditional systems (e.g., passwords or tokens)

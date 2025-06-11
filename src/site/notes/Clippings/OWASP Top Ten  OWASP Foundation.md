@@ -1,5 +1,5 @@
 ---
-{"updated":"2024-11-30T23:13:06+05:30","dg-publish":true,"permalink":"/clippings/owasp-top-ten-owasp-foundation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/clippings/owasp-top-ten-owasp-foundation/","noteIcon":""}
 ---
 
 ![Mapping](https://owasp.org/www-project-top-ten/assets/images/mapping.png)
